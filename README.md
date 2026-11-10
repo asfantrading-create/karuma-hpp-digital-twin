@@ -43,8 +43,13 @@ A real-time digital twin of the Karuma HPP power-system training laboratory:
   - guided training scenarios with automatic assessment.
 - **Workstations**: an instructor station plus trainee workstations over the classroom network.
 - **3D training lab**: an interactive 3D model of the whole laboratory, linked to live data.
+  - Each of the 14 desk monitors shows its own live page: hydro units 1 and 2, step-up transformers, 220 kV lines, grid interconnector, substation and OLTC, feeders 1–4, protection, power balance and AGC, plus the instructor's alarms and energy-flow pages.
+  - Click a monitor to zoom in and read it.
 
 ## Screenshots
+
+![Trainee workstations in the 3D lab](docs/img/desks.jpg)
+*Trainee workstations in the 3D lab: every monitor shows a different part of the power system.*
 
 | | |
 |---|---|
